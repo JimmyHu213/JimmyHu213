@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jimmy
 - 👀 I’m interested in game and creating
-- 🌱 I’m currently learning linux, javascript and C program.
+- 🌱 I’m currently learning Vue, javascript and Swift program.
 - 💞️ I’m looking to collaborate on fresh knowledge.
 - 📫 Contact me through Jimmyhu213@163.com  
 
