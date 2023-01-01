@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jimmy
-- 👀 I’m interested in game and creating
+- 👀 I’m interested in game and creating.
 - 🌱 I’m currently learning React, Flutter, Swift program.
 - 💞️ I’m looking to collaborate on fresh knowledge.
 - 📫 Contact me through Jieminghu213@gmail.com  
