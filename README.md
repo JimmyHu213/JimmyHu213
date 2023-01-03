@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Vue.js and Node.js Projects**
 
-- 👨‍💻 Some of my projects are available at [Jiemingh.me](Jiemingh.me)
+- 👨‍💻 Some of my projects are available at <a href="https://jiemingh.me/">jiemingh.me<a/>
 
 - 📫 How to reach me **Jiemingh213@gmail.com**
 
@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Jimmy36391262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
-<a href="https://fb.com/facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jimmy-hu-98398a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100077348628273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
 <a href="https://dribbble.com/GGBow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribble" height="30" width="40" /></a>
 </p>
 
