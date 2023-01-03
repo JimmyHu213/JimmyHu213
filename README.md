@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">An enthusiastic web&softeware developer in Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JimmyHu213&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github" alt="github" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JimmyHu213" alt="github" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/twitter" target="blank"><img src="https://img.shields.io/twitter/follow/twitter?logo=twitter&style=for-the-badge" alt="twitter" /></a> </p>
 
