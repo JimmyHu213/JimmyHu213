@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">An enthusiastic web&softeware developer in Australia</h3>
+<h3 align="center">An enthusiastic ❤️  web&softeware developer in Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JimmyHu213&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
