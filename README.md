@@ -1,6 +1,6 @@
 ![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">An enthusiastic ❤️  web & softeware developer in Australia</h3>
+<h3 align="center">An enthusiastic ❤️  web & software developer in Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JimmyHu213&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 👨‍💻 My portfolio is available at **<a href="https://jiemingh.me/">jiemingh.me<a/>**
 
-- 📫 How to reach me **Jiemingh213@gmail.com**
+- 📫 How to reach me **jiemingh213@gmail.com**
 
 - ⚡ Fun fact **I was coding in my friend's birthday party**
 
