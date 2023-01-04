@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/5927911.gif)]
+![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">An enthusiastic ❤️  web&softeware developer in Australia</h3>
 
