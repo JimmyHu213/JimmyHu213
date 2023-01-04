@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Vue.js and Node.js Projects**
 
-- 👨‍💻 My portfolio is available at <a href="https://jiemingh.me/">jiemingh.me<a/>
+- 👨‍💻 My portfolio is available at **<a href="https://jiemingh.me/">jiemingh.me<a/>**
 
 - 📫 How to reach me **Jiemingh213@gmail.com**
 
