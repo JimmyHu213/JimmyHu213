@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jiemingh213@gmail.com**
 
-- ⚡ Fun fact **I was coding in my friend's birthday party**
+- ⚡ Fun fact **Now I am working on a farm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
